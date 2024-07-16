@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{042DA4D2-4CAF-4657-B779-CE800D585A89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{59EDAD57-B9F9-4DEF-877C-1B29268F7BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notify", "src\Notify\Notify.csproj", "{05F56075-300A-47AF-8C78-F18979D98DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F56075-300A-47AF-8C78-F18979D98DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F56075-300A-47AF-8C78-F18979D98DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F56075-300A-47AF-8C78-F18979D98DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F56075-300A-47AF-8C78-F18979D98DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{05F56075-300A-47AF-8C78-F18979D98DEA} = {042DA4D2-4CAF-4657-B779-CE800D585A89}
+	EndGlobalSection
+EndGlobal

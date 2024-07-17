@@ -45,6 +45,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.3, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.3.0, )"

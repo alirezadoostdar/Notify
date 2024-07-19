@@ -1,4 +1,4 @@
-﻿namespace Notify.Features
+﻿namespace Notify.Features.Sms
 {
     public enum SmsTraceStatus
     {

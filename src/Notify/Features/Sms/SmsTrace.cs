@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.EntityFrameworkCore;
 
-namespace Notify.Features
+namespace Notify.Features.Sms
 {
 
     [Collection("sms_traces")]

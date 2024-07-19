@@ -1,5 +1,4 @@
-﻿
-namespace Notify.Features.Sms.Providers
+﻿namespace Notify.Features.Sms.Providers
 {
     public class SmsIrProvider : ISmsProvider
     {

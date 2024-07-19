@@ -10,7 +10,8 @@
 
     public class SvcDbContextConfiguration
     {
-
+        public required string Host { get; set; }
+        public required string DatabaseName {  get; set; }
     }
 
     public class BrokerConfiguration

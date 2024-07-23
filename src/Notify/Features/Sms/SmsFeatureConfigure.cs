@@ -12,7 +12,7 @@ namespace Notify.Features.Sms
             services.AddKeyedScoped<ISmsProvider, SmsIrProvider>("SmsIrProvider");
             services.AddKeyedScoped<ISmsProvider, KavehNegarProvider>("KavehNegarProvider");
 
-            var appSetting = configuration.Get<AppSetting>();
+            var appSetting = configuration.Get<AppSettings>();
 
             services.AddDbContext<SmsDbContext>(options =>
             {

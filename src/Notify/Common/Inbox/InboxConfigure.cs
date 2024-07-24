@@ -7,7 +7,7 @@
             services.AddScoped<InboxService>();
             services.AddHostedService<InboxProcessBackgroundService>();
 
-            var appSettings = configuration.Get<AppSetting>();
+            var appSettings = configuration.Get<AppSettings>();
 
             services.AddDbContext<InboxDbContext>(options =>
             {

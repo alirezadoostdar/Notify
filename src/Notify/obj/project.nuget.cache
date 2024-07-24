@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DPVZfodN4/0dokq7U0xTrIjf5M+c976hIXqzpICcNiTjJfDg2LltOOXzlqWPuFK6cJiciJvaBrXPx0nbIwibSw==",
+  "dgSpecHash": "F5TQJwp2JURmlFEBQLC81ItY1tlghx9MdIncHrgSi8OavRXq8/D+nzIn1faHp7S3/Gi2j9ug5iFzxcbC/xfbug==",
   "success": true,
   "projectFilePath": "D:\\OneDrive\\System Design\\Notify\\src\\Notify\\Notify.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Alireza\\.nuget\\packages\\carter.analyzers\\8.2.1\\carter.analyzers.8.2.1.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\ipe.smsir\\1.2.7\\ipe.smsir.1.2.7.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\masstransit\\8.2.3\\masstransit.8.2.3.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\masstransit.abstractions\\8.2.3\\masstransit.abstractions.8.2.3.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\masstransit.rabbitmq\\8.2.3\\masstransit.rabbitmq.8.2.3.nupkg.sha512",
@@ -58,6 +59,7 @@
     "C:\\Users\\Alireza\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",

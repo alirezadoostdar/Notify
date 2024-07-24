@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[8.2.1, )"
             },
+            "IPE.SmsIr": {
+              "target": "Package",
+              "version": "[1.2.7, )"
+            },
             "MassTransit": {
               "target": "Package",
               "version": "[8.2.3, )"
